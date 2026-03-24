@@ -1,0 +1,60 @@
+[
+  { "faculty_id": 1, "name": "Integrated Circuit Design" },
+  { "faculty_id": 1, "name": "Electronics and Telecommunications Engineering" },
+  { "faculty_id": 1, "name": "Control and Automation Engineering" },
+  { "faculty_id": 1, "name": "Electrical Engineering" },
+
+  { "faculty_id": 2, "name": "Construction Economics" },
+  { "faculty_id": 2, "name": "Transportation Engineering" },
+  { "faculty_id": 2, "name": "Geomatics Engineering" },
+  { "faculty_id": 2, "name": "Civil Engineering" },
+  { "faculty_id": 2, "name": "Hydraulic Engineering" },
+  { "faculty_id": 2, "name": "Marine Engineering" },
+  { "faculty_id": 2, "name": "Infrastructure Engineering" },
+  { "faculty_id": 2, "name": "Architecture" },
+  { "faculty_id": 2, "name": "Building Materials Engineering Technology" },
+
+  { "faculty_id": 3, "name": "Mechatronics" },
+  { "faculty_id": 3, "name": "Thermal Engineering" },
+  { "faculty_id": 3, "name": "Logistics and Supply Chain Management" },
+  { "faculty_id": 3, "name": "Industrial Systems Engineering" },
+  { "faculty_id": 3, "name": "Textile Engineering" },
+  { "faculty_id": 3, "name": "Mechanical Engineering" },
+  { "faculty_id": 3, "name": "Textile and Garment Technology" },
+  { "faculty_id": 3, "name": "Industrial Maintenance" },
+
+  { "faculty_id": 4, "name": "Chemical Engineering" },
+  { "faculty_id": 4, "name": "Food Technology" },
+  { "faculty_id": 4, "name": "Biotechnology" },
+
+  { "faculty_id": 5, "name": "Computer Engineering" },
+  { "faculty_id": 5, "name": "Computer Science" },
+
+  { "faculty_id": 6, "name": "Materials Engineering" },
+
+  { "faculty_id": 7, "name": "Data Science" },
+  { "faculty_id": 7, "name": "Engineering Physics" },
+  { "faculty_id": 7, "name": "Engineering Mechanics" },
+
+  { "faculty_id": 8, "name": "Naval Architecture and Marine Engineering" },
+  { "faculty_id": 8, "name": "Automotive Engineering" },
+  { "faculty_id": 8, "name": "Aerospace Engineering" },
+
+  { "faculty_id": 9, "name": "Industrial Management" },
+
+  { "faculty_id": 10, "name": "Geotechnical Engineering" },
+  { "faculty_id": 10, "name": "Petroleum Engineering" },
+  { "faculty_id": 10, "name": "Geological Engineering" },
+
+  { "faculty_id": 11, "name": "Environmental and Natural Resource Management" },
+  { "faculty_id": 11, "name": "Environmental Engineering" },
+
+  { "faculty_id": 12, "name": "Electrical Engineering (Telecommunications)" },
+  { "faculty_id": 12, "name": "Electrical Engineering (Power Systems)" },
+  { "faculty_id": 12, "name": "Mechanical Engineering (Mechatronics)" },
+  { "faculty_id": 12, "name": "Mechanical Engineering (Aerospace)" },
+  { "faculty_id": 12, "name": "Mechanical Engineering (Materials and Energy)" },
+  { "faculty_id": 12, "name": "Mechanical Engineering (Polymers and Composites)" },
+  { "faculty_id": 12, "name": "Civil Engineering (Civil–Industrial & Energy Efficiency)" },
+  { "faculty_id": 12, "name": "Civil Engineering (Urban Water Engineering and Management)" }
+]

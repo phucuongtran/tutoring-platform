@@ -1,0 +1,14 @@
+[
+  { "id": 1, "code": "EE", "name": "Faculty of Electrical – Electronics Engineering", "created_at": null },
+  { "id": 2, "code": "CE", "name": "Faculty of Civil Engineering", "created_at": null },
+  { "id": 3, "code": "ME", "name": "Faculty of Mechanical Engineering", "created_at": null },
+  { "id": 4, "code": "CHE", "name": "Faculty of Chemical Engineering", "created_at": null },
+  { "id": 5, "code": "CSE", "name": "Faculty of Computer Science and Engineering", "created_at": null },
+  { "id": 6, "code": "MT", "name": "Faculty of Materials Technology", "created_at": null },
+  { "id": 7, "code": "AS", "name": "Faculty of Applied Science", "created_at": null },
+  { "id": 8, "code": "TE", "name": "Faculty of Transportation Engineering", "created_at": null },
+  { "id": 9, "code": "IM", "name": "Faculty of Industrial Management", "created_at": null },
+  { "id": 10, "code": "GPE", "name": "Faculty of Geological and Petroleum Engineering", "created_at": null },
+  { "id": 11, "code": "ENR", "name": "Faculty of Environment and Natural Resources", "created_at": null },
+  { "id": 12, "code": "PFIEV", "name": "PFIEV High-Quality Engineering Program", "created_at": null }
+]
